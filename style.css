@@ -1,0 +1,48 @@
+:root {
+    --color1: #005d8c;
+    --color2: #ff6600;
+    --color3: #20a215;
+}
+/* Цвета */
+.color1 {
+    color: var(--color1);
+}
+.color2 {
+    color: var(--color2);
+}
+.color3 {
+    color: var(--color3);
+}
+/* оформление по хедеру */
+header {
+    padding: 15px 0;
+}
+
+/* секция orange */
+.orange {
+    padding: 15px 0;
+}
+.orange img {
+    width: 60px;
+    height: 60px;
+}
+/* секция advantages */
+.advantages ul {
+    padding: 40px 0;
+    margin-left: 30px;
+}
+/* секция breakings */
+.breakings {
+    padding: 30px;
+}
+.breakings h2 {
+    margin-bottom: -100px;
+}
+/* секция футер */
+footer {
+    background-color: rgb(90, 88, 88);
+    padding: 15px 0;
+}
+footer img {
+    width: 30px;
+}
