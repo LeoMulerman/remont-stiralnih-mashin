@@ -1,0 +1,1 @@
+# remont-stiralnih-mashin
